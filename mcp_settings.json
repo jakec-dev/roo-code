@@ -13,16 +13,12 @@
         "-y",
         "@modelcontextprotocol/server-memory"
       ]
-    },
-    "obsidian": {
+    },"sequential-thinking": {
       "command": "npx",
       "args": [
         "-y",
-        "mcp-obsidian",
-        "/home/jake/obsidian"
-      ],
-      "disabled": true,
-      "alwaysAllow": []
-    }
+        "@modelcontextprotocol/server-sequential-thinking"
+      ]
+    }  
   }
 }
