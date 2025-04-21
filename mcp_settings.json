@@ -13,7 +13,8 @@
         "-y",
         "@modelcontextprotocol/server-memory"
       ]
-    },"sequential-thinking": {
+    },
+    "sequential-thinking": {
       "command": "npx",
       "args": [
         "-y",
